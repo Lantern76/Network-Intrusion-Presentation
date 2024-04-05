@@ -9,4 +9,5 @@ This presentation below is designed to mimik a presentation submitted to the hig
 
 ### Presentation
 
-[CST640_Project1_RyanSteggerda.pptx](https://github.com/Lantern76/Network-Intrusion-Presentation/files/14881072/CST640_Project1_RyanSteggerda.pptx)
+[Network Intrusion Presentation.pdf](https://github.com/Lantern76/Network-Intrusion-Presentation/files/14881115/Network.Intrusion.Presentation.pdf)
+
